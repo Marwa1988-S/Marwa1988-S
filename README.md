@@ -19,7 +19,7 @@
 * Relational databases with SQL 
 * Web design with CSS, HTML and Dreamweaver
 * JavaScript Developer - Ajax - NodeJs
-* React JavaScript Bibliothek
+* React JavaScript library
 * PHP Developer - MySQL
 
 
