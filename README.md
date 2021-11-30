@@ -1,4 +1,4 @@
-## Softwer Developer
+## Software Developer
 
 
  **Hi, I’m Marwa 🙂**
