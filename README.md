@@ -15,12 +15,12 @@
 
 ### Skills
 
-* Object-oriented programming with Java 
-* Relational databases with SQL 
-* Web design with CSS, HTML and Dreamweaver
-* JavaScript Developer - Ajax - NodeJs
-* React JavaScript library
-* PHP Developer - MySQL
+* Object-oriented programming Java-PHP-C# 
+* Relational databases
+* Web design HTML ,CSS and Dreamweaver
+* JavaScript- Ajax - NodeJs
+* React 
+* PHP - MySQL
 
 
 
